@@ -36,6 +36,7 @@ export default function Home() {
                 priority
               />
             </a>
+            <img src='/dog.jpg' alt="Dog" width="500" height="600" />
           </div>
         </div>
 
